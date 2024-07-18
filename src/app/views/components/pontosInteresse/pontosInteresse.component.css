@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+.container {
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+table {
+    width: 100%;
+}
+
+.mat-mdc-header-cell { 
+    text-align: center;
+}
+
+.mdc-data-table__cell {
+    text-align: center;
+    cursor: pointer;
+}
+
+.mat-success {
+    background-color: #969696;
+    color: #fff;
+    width: 15rem;
+    height: 2.5rem;
+}
